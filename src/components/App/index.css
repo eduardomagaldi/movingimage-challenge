@@ -2,6 +2,6 @@
   height: 100%;
 }
 
-.MuiDataGrid-root .MuiDataGrid-colCellTitle {
-  font-weight: 600 !important; /* TODO implement solution to avoid using important in this case */
+.movingimage__datagrid.MuiDataGrid-root .MuiDataGrid-colCellTitle {
+  font-weight: 600;
 }

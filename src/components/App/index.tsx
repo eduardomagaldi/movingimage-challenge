@@ -77,7 +77,7 @@ const App: React.FC = () => {
       </AppBar>
 
       <Container>
-        <DataGrid rows={videos} columns={columns} loading={loading} />
+        <DataGrid rows={videos} columns={columns} loading={loading} className="movingimage__datagrid" />
       </Container>
     </>
   );
